@@ -3,7 +3,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAZ-u9JfUL0F5CiEIJwlq9XVZL9WQKSwew",
+    apiKey: "FIREBASE_API_KEY",
     authDomain: "exploria-6a24e.firebaseapp.com",
     projectId: "exploria-6a24e",
     storageBucket: "exploria-6a24e.firebasestorage.app",
